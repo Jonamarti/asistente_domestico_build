@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/asistente_domestico_build/sw.js', { scope: '/asistente_domestico_build/' })})}
