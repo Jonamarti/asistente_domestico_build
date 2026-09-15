@@ -1,0 +1,5 @@
+Este fichero es el centinela que exige scripts/publish-static.ps1 (en el repo privado
+MealPrepHelper) antes de espejar aquí con robocopy /MIR. Su presencia es lo único que impide
+que el script se equivoque de carpeta y borre algo que no debía.
+
+No editar el contenido de esta carpeta a mano: se sobreescribe entera en cada publicación.
